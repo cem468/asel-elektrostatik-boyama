@@ -5,7 +5,11 @@
       "Bash(gh auth *)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git -c user.email=\"info@aselsteel.com\" -c user.name=\"ASEL\" commit -m \"Initial commit: ASEL Elektrostatik Boyama static website\")"
+      "Bash(git -c user.email=\"info@aselsteel.com\" -c user.name=\"ASEL\" commit -m \"Initial commit: ASEL Elektrostatik Boyama static website\")",
+      "Bash(gh repo *)",
+      "Bash(gh api *)",
+      "PowerShell(Start-Process \"https://cem468.github.io/asel-elektrostatik-boyama/\")",
+      "Skill(marketing-skills:seo-audit)"
     ]
   }
 }

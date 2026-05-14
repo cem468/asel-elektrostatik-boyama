@@ -82,7 +82,7 @@ a:hover{color:var(--gold-2)}
   position:relative;min-height:88vh;display:grid;place-items:center;text-align:center;
   background:
     linear-gradient(180deg,rgba(10,10,10,.72),rgba(10,10,10,.92)),
-    url('../img/download (46).png') center/cover no-repeat;
+    url('../img/elektrostatik-toz-boyama-tesis.png') center/cover no-repeat;
   padding:5rem 1rem;
   overflow:hidden;
 }
@@ -102,7 +102,7 @@ a:hover{color:var(--gold-2)}
 /* Smaller page header for inner pages */
 .page-header{
   background:linear-gradient(180deg,rgba(10,10,10,.7),rgba(10,10,10,.95)),
-             url('../img/download (47).png') center/cover no-repeat;
+             url('../img/fason-boyama-fabrikasi-istanbul.png') center/cover no-repeat;
   padding:5rem 1rem 3.5rem;text-align:center;border-bottom:1px solid var(--border);
 }
 .page-header h1{font-size:clamp(1.8rem,3.5vw,2.6rem);color:var(--text)}
