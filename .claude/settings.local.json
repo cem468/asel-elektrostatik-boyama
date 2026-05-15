@@ -28,7 +28,8 @@
       "Bash(curl -sI -L --max-time 15 https://fasonstatikboya.com/)",
       "Bash(git commit *)",
       "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -m \"Remove 'İstanbul'da' from hero heading\")",
-      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -am \"Refine hero heading copy\")"
+      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -am \"Refine hero heading copy\")",
+      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -am \"Add Google Search Console verification meta tag\")"
     ]
   }
 }
