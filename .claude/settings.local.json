@@ -9,7 +9,26 @@
       "Bash(gh repo *)",
       "Bash(gh api *)",
       "PowerShell(Start-Process \"https://cem468.github.io/asel-elektrostatik-boyama/\")",
-      "Skill(marketing-skills:seo-audit)"
+      "Skill(marketing-skills:seo-audit)",
+      "Bash(git -c user.email=info@aselsteel.com -c user.name=ASEL commit -m 'SEO: add LocalBusiness JSON-LD, canonicals, OG tags, sitemap, robots; custom domain fasonstatikboya.com *)",
+      "Bash(git push *)",
+      "PowerShell(Start-Process \"https://fasonstatikboya.com/\")",
+      "WebFetch(domain:fasonstatikboya.com)",
+      "WebFetch(domain:cem468.github.io)",
+      "Bash(curl -sI -A \"Mozilla/5.0\" https://fasonstatikboya.com/)",
+      "Bash(curl -sI -A \"Mozilla/5.0\" https://fasonstatikboya.com/sitemap.xml)",
+      "Bash(curl -s -A \"Mozilla/5.0\" https://fasonstatikboya.com/robots.txt)",
+      "Bash(start *)",
+      "PowerShell(Resolve-DnsName *)",
+      "Bash(curl -sI https://cem468.github.io/asel-elektrostatik-boyama/)",
+      "Bash(nslookup fasonstatikboya.com 1.1.1.1)",
+      "Bash(nslookup -type=CNAME fasonstatikboya.com 1.1.1.1)",
+      "Bash(dig +short CNAME fasonstatikboya.com @1.1.1.1)",
+      "Bash(dig +short fasonstatikboya.com @8.8.8.8)",
+      "Bash(curl -sI -L --max-time 15 https://fasonstatikboya.com/)",
+      "Bash(git commit *)",
+      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -m \"Remove 'İstanbul'da' from hero heading\")",
+      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -am \"Refine hero heading copy\")"
     ]
   }
 }
