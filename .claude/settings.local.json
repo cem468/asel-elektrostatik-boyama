@@ -34,7 +34,8 @@
       "Bash(curl -sI --max-time 15 https://fasonstatikboya.com/sitemap.xml)",
       "Bash(curl *)",
       "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 add -A)",
-      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -m \"SEO: FAQ + HowTo schema, robots/geo meta, OG image upgrade, 404 page, trim iletisim title\")"
+      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -m \"SEO: FAQ + HowTo schema, robots/geo meta, OG image upgrade, 404 page, trim iletisim title\")",
+      "Bash(git -c user.email=info@gizadijital.com -c user.name=cem468 commit -m \"SEO: target 'toz boya', 'statik boya', 'elektrostatik' keywords across pages\")"
     ]
   }
 }
